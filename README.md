@@ -6,6 +6,8 @@ We follow the method from the paper: **“A Bayesian Network Approach to Traffic
 
 Since the original dataset is not available, we use the publicly available **PEMS-BAY** dataset for implementation.
 
+Link: `https://www.kaggle.com/datasets/scchuy/pemsbay`
+
 The main goal is to build a simple **cause → effect** model using past traffic values and nearby sensors to forecast the future speed.
 
 ---
